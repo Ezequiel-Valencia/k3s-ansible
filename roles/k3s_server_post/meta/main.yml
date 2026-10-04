@@ -97,7 +97,7 @@ argument_specs:
         default: native
         choices:
           - native
-          - routed
+          - tunnel
 
       cluster_cidr:
         description: Inner-cluster IP range
